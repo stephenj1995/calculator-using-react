@@ -1,1 +1,1 @@
-# calculator-using-react
+# Simple Calculator using ReactJS
